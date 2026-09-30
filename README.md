@@ -1,6 +1,6 @@
 ---
 
-### 2. SimplePasswordCracker
+###SimplePasswordCracker
 
 # SimplePasswordCracker
 
