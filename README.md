@@ -2,7 +2,6 @@
 
 ### 2. SimplePasswordCracker
 
-```markdown
 # SimplePasswordCracker
 
 An educational Python utility for building custom wordlists and demonstrating fundamental password-cracking techniques for security analysis.
