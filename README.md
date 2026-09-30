@@ -4,28 +4,28 @@
 
 # SimplePasswordCracker
 
-An educational Python utility for building custom wordlists and demonstrating fundamental password-cracking techniques for security analysis.
+An educational tool in Python for generating your own wordlists and learning basic password cracking methods for security testing purposes.
 
 ---
 
 ## Features
 
-- **Custom Wordlist Generation:** Programmatically creates permutation-based wordlists based on user input parameters.
-- **Educational Demonstrations:** Demonstrates how brute-force lookup and wordlist verification functions in basic authentication testing.
-- **Lightweight Execution:** Pure Python implementation with minimal external dependencies.
+- **Custom Wordlist Generator:** Automatically generates wordlists based on user-defined inputs.
+- **Educational Purpose:** Educates users about basic authentication testing by showing how lookup via brute-force and wordlist works.
+- **Efficient Performance:** Python based with very few dependencies.
 
 ## Tech Stack
 
-- **Language:** Python 3.x
+- **Programming Language:** Python 3.x
 
-## Installation & Setup
+## Installation & Usage
 
-1. **Clone the repository:**
-   ```bash
+1. **Clone the Repository:**
+   ```
    git clone [https://github.com/bruh109-cyber/SimplePasswordCracker.git](https://github.com/bruh109-cyber/SimplePasswordCracker.git)
    cd SimplePasswordCracker
 
 Usage:
 python wordlist_gen.py
-├── wordlist_gen.py     # Script to generate customized dictionary wordlists
-└── README.md        # Documentation
+├── wordlist_gen.py     # Generates your own customized wordlist
+└── README.md        # Docs
